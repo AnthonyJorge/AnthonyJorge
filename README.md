@@ -8,20 +8,6 @@ Hi, I'm Jorge Chavez!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img  align="left" src="https://i.pinimg.com/564x/27/82/f9/2782f930fe6f9c911c19f0431da0eab5.jpg"  width="360" />
-<hr>
-
-
-
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer<br>
-📝 I have a strong interest in Data Science and Artificial Intelligence<br>
-🔭 Working on SIGA (ADVANCED MANAGEMENT COMPUTER SYSTEM)<br>
-🌟 Main languages: Klotin, JavaScript, C# <br>
-🚩 Interested in Full Stack Machine Learning Application development<br> 
-🎵 Love Rap
-
-<br><br><br><br><br><br>
-<br>
 <hr>
 
 
@@ -35,7 +21,8 @@ Hi, I'm Jorge Chavez!
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+   
+   
 
 ### 🧰 Frameworks and Libraries
 
